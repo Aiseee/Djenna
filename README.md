@@ -6,10 +6,15 @@ No current porject/s at the moment.
 
 ## 🌱 Skills
 — HTML
+
 — CSS
+
 — BS5
+
 — PHP (familiarity with Laravel)
+
 — Database Management (MySQL)
+
 — Data Visualization (Power BI)
 
 ## 💡 Looking for 
